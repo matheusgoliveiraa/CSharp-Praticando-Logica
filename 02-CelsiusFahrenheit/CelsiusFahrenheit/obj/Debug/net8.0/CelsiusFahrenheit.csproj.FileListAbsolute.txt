@@ -1,0 +1,14 @@
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\net8.0\CelsiusFahrenheit.exe
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\net8.0\CelsiusFahrenheit.deps.json
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\net8.0\CelsiusFahrenheit.runtimeconfig.json
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\net8.0\CelsiusFahrenheit.dll
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\bin\Debug\net8.0\CelsiusFahrenheit.pdb
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.AssemblyInfoInputs.cache
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.AssemblyInfo.cs
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.csproj.CoreCompileInputs.cache
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.dll
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\refint\CelsiusFahrenheit.dll
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.pdb
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\CelsiusFahrenheit.genruntimeconfig.cache
+D:\ExerciciosLogica\CelsiusFahrenheit\CelsiusFahrenheit\obj\Debug\net8.0\ref\CelsiusFahrenheit.dll
