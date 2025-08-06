@@ -1,0 +1,14 @@
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\bin\Debug\net8.0\DobroTriploRaizQuadrada.exe
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\bin\Debug\net8.0\DobroTriploRaizQuadrada.deps.json
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\bin\Debug\net8.0\DobroTriploRaizQuadrada.runtimeconfig.json
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\bin\Debug\net8.0\DobroTriploRaizQuadrada.dll
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\bin\Debug\net8.0\DobroTriploRaizQuadrada.pdb
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.AssemblyInfoInputs.cache
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.AssemblyInfo.cs
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.csproj.CoreCompileInputs.cache
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.dll
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\refint\DobroTriploRaizQuadrada.dll
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.pdb
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\DobroTriploRaizQuadrada.genruntimeconfig.cache
+D:\ExerciciosLogica\DobroTriploRaizQuadrada\DobroTriploRaizQuadrada\obj\Debug\net8.0\ref\DobroTriploRaizQuadrada.dll
