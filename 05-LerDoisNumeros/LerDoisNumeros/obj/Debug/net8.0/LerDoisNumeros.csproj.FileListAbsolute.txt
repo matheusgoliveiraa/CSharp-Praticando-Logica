@@ -1,0 +1,14 @@
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.AssemblyInfoInputs.cache
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.AssemblyInfo.cs
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.csproj.CoreCompileInputs.cache
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\bin\Debug\net8.0\LerDoisNumeros.exe
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\bin\Debug\net8.0\LerDoisNumeros.deps.json
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\bin\Debug\net8.0\LerDoisNumeros.runtimeconfig.json
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\bin\Debug\net8.0\LerDoisNumeros.dll
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\bin\Debug\net8.0\LerDoisNumeros.pdb
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.dll
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\refint\LerDoisNumeros.dll
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.pdb
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\LerDoisNumeros.genruntimeconfig.cache
+D:\ExerciciosLogica\LerDoisNumeros\LerDoisNumeros\obj\Debug\net8.0\ref\LerDoisNumeros.dll
