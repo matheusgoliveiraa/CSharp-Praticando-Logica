@@ -1,0 +1,14 @@
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\bin\Debug\net8.0\LerNomeEidade.exe
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\bin\Debug\net8.0\LerNomeEidade.deps.json
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\bin\Debug\net8.0\LerNomeEidade.runtimeconfig.json
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\bin\Debug\net8.0\LerNomeEidade.dll
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\bin\Debug\net8.0\LerNomeEidade.pdb
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.AssemblyInfoInputs.cache
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.AssemblyInfo.cs
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.csproj.CoreCompileInputs.cache
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.dll
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\refint\LerNomeEidade.dll
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.pdb
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\LerNomeEidade.genruntimeconfig.cache
+D:\ExerciciosLogica\LerNomeEidade\LerNomeEidade\obj\Debug\net8.0\ref\LerNomeEidade.dll
